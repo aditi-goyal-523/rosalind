@@ -1,0 +1,5 @@
+seq1 = "GAGCCTACTAACGGGAT"
+
+seq2 = "CATCGTAATGACGGCCT"
+
+seq1 == seq2
